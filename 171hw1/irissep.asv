@@ -1,0 +1,12 @@
+%
+%
+%
+%
+a1 = 1
+a2 = 3
+
+plotdata('iris.dat', a1, a2)
+
+drawline([1,2.1],-16)
+
+title('w = [1,  2.1], b = -16')
